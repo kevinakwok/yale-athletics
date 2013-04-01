@@ -1,0 +1,1403 @@
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta name="google-site-verification" content="UCyPI5OegFOIzGHNXcNKJfLxTud-u6kxqeCH50LDKAs" />
+<title>2012-13 Yale Men's Basketball Roster -  Yale Bulldogs</title>
+
+<link rel="stylesheet" href="http://cdn77.psbin.com/info/base.css" type="text/css" />
+<link rel="stylesheet" href="/new.css" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<script type="text/javascript" src="http://cdn77.psbin.com/info/jquery.js"></script>
+<script type="text/javascript" src="/dropdown.js"></script>
+
+<style type="text/css">
+#view-mode a { color:#fff }
+</style>
+
+<!--[if IE 6]>
+<script src="/DD_belatedPNG.js"></script>
+<script>
+DD_belatedPNG.fix("#main-image ,#social-button .button, .logo, .border, #spot-cont img, .nav-label");
+</script>
+<![endif]-->
+
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script>
+      FB.init({
+        status : true, // check login status
+        cookie : true, // enable cookies to allow the server to access the session
+        xfbml  : true  // parse XFBML
+      });
+    </script>
+</head>
+<body class="pagebody">
+
+<div id="wrapper">
+
+<div class="background"></div>
+
+<div id="social-button">
+<a href="http://www.facebook.com/yalebulldogs" class="button" id="button1"></a>
+<a href="http://www.youtube.com/YaleAthletics" class="button" id="button2"></a>
+<a href="http://twitter.com/YaleAthletics" class="button" id="button3"></a>
+
+</div>
+
+<div id="header">
+    <div id="main-image"></div>
+    <div id="header-image"><img src="/images/horizontal_for_headers/bkb_m_150_50_a.jpg?max_width=475&max_height=133&crop=true" width="475" height="133" /></div>
+    <a href="/landing/index" class="logo"><img src="/info/images/spacer.gif" /></a>
+</div>
+
+<div id="global-nav">
+  <ul>
+          <li class="nav nav1 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container1">
+
+<div class="submenu submenu1">
+        <ul>
+
+                                    <span class="nav-label" style="background-image: url(/images/redesign/men_sports.png);"></span>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+
+
+<li><a href="/sports/m-basebl/index">Baseball</a></li>
+
+<li><a href="/sports/m-baskbl/index">Basketball</a></li>
+
+<li><a href="/sports/m-crewhvy/index">Crew (Heavyweight)</a></li>
+
+<li><a href="/sports/m-crewlt/index">Crew (Lightweight)</a></li>
+
+<li><a href="/sports/m-xc/index">Cross Country</a></li>
+
+<li><a href="/sports/m-fenc/index">Fencing</a></li>
+
+<li><a href="/sports/m-footbl/index">Football</a></li>
+
+<li><a href="/sports/m-golf/index">Golf</a></li>
+
+<li><a href="/sports/m-hockey/index">Ice Hockey</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+
+<li><a href="/sports/m-lacros/index">Lacrosse</a></li>
+
+<li><a href="/sports/c-sail/index">Sailing (Coed)</a></li>
+
+<li><a href="/sports/m-soccer/index">Soccer</a></li>
+
+<li><a href="/sports/m-squash/index">Squash</a></li>
+
+<li><a href="/sports/m-swim/index">Swimming &amp; Diving</a></li>
+
+<li><a href="/sports/m-tennis/index">Tennis</a></li>
+
+<li><a href="/sports/m-track/index">Track &amp; Field</a></li>
+
+
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <span class="nav-label" style="background-image: url(/images/redesign/women_sports.png);"></span>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+
+
+<li><a href="/sports/w-baskbl/index">Basketball</a></li>
+
+<li><a href="/sports/w-crew/index">Crew</a></li>
+
+<li><a href="/sports/w-xc/index">Cross Country</a></li>
+
+<li><a href="/sports/w-fenc/index">Fencing</a></li>
+
+<li><a href="/sports/w-fieldh/index">Field Hockey</a></li>
+
+<li><a href="/sports/w-golf/index">Golf</a></li>
+
+<li><a href="/sports/w-gym/index">Gymnastics</a></li>
+
+<li><a href="/sports/w-hockey/index">Ice Hockey</a></li>
+
+<li><a href="/sports/w-lacros/index">Lacrosse</a></li>
+</ul>
+</div>
+<div class="submenu">
+<ul>
+
+<li><a href="/sports/c-sail/index">Sailing (Coed)</a></li>
+
+<li><a href="/sports/w-sail/index">Sailing (Women's)</a></li>
+
+<li><a href="/sports/w-soccer/index">Soccer</a></li>
+
+<li><a href="/sports/w-softbl/index">Softball</a></li>
+
+<li><a href="/sports/w-squash/index">Squash</a></li>
+
+<li><a href="/sports/w-swim/index">Swimming &amp; Diving</a></li>
+
+<li><a href="/sports/w-tennis/index">Tennis</a></li>
+
+<li><a href="/sports/w-track/index">Track &amp; Field</a></li>
+
+<li><a href="/sports/w-volley/index">Volleyball</a></li>
+
+
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav2 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container2">
+
+<span class="nav-label" style="background-image: url(/images/redesign/inside_athletics.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/administration/index"  >Administration</a></li>
+
+                                    <li><a href="/information/alumni/associations/index"  >Alumni Associations</a></li>
+
+                                    <li><a href="/information/athlete_services/index"  >Athlete Services</a></li>
+
+                                    <li><a href="/information/directory/index"  >Athletic Department Directory</a></li>
+
+                                    <li><a href="/information/blue_leadership_ball/index"  >Blue Leadership Ball</a></li>
+
+                                    <li><a href="/information/broadcasts/index"  >Broadcasts/Netcasts</a></li>
+
+                                    <li><a href="/sustainability/index"  >Bulldog Sustainability</a></li>
+
+                                    <li><a href="/information/camps/index"  >Camps</a></li>
+
+                                    <li><a href="/information/captains/2012-13_yale_captains"  >Captains</a></li>
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <li><a href="/information/career_network/index"  >Career Network</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/"   target="_blank" >Club Sports</a></li>
+
+                                    <li><a href="/information/compliance/index"  >Compliance</a></li>
+
+                                    <li><a href="/information/directory/index"  >Contact Us</a></li>
+
+                                    <li><a href="/information/directions/index"  >Directions</a></li>
+
+                                    <li><a href="/information/giving"  >Giving to Yale Athletics</a></li>
+
+                                    <li><a href="http://giving.yale.edu/"   target="_blank" >Giving to Yale</a></li>
+
+                                    <li><a href="/information/mascot/handsome_dan/index"  >Handsome Dan</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/"   target="_blank" >Intramurals</a></li>
+
+                                    <li><a href="/information/kids_club/index"  >Kids Club</a></li>
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <li><a href="/information/athlete_services/kiphuth_leadership_academy/index"  >Kiphuth Leadership</a></li>
+
+                                    <li><a href="/information/merchandise/index"  >Merchandise</a></li>
+
+                                    <li><a href="/information/traditions/OLYMPICS.WEB.pdf"  >Olympians</a></li>
+
+                                    <li><a href="http://www.replayphotos.com/yalephotostore/"   target="_blank" >Photo Store</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/"   target="_blank" >Physical Education</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/"   target="_blank" >Recreational Choices</a></li>
+
+                                    <li><a href="/information/recruiting/index"  >Recruiting Guidelines</a></li>
+
+                                    <li><a href="/information/athlete_services/strength_and_conditioning/index"  >Strength and Conditioning</a></li>
+
+                                    <li><a href="/information/tailgates/index"  >Tailgating</a></li>
+
+                                    <li><a href="/information/tickets/index"  >Tickets</a></li>
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <li><a href="/information/year_in_review/index"  >Year in Review</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav3 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container3">
+
+<span class="nav-label" style="background-image: url(/images/redesign/tickets.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/tickets/index"  >Tickets Home</a></li>
+
+                                    <li><a href="/information/tickets/basketball"  >Basketball Tickets</a></li>
+
+                                    <li><a href="/information/tickets/football"  >Football Tickets</a></li>
+
+                                    <li><a href="/information/tickets/hockey"  >Hockey Tickets</a></li>
+
+                                    <li><a href="/information/tickets/index"  >Men's Lacrosse</a></li>
+
+                                    <li><a href="/information/directions"  >Directions</a></li>
+
+                                    <li><a href="/information/tailgates/index"  >Tailgating</a></li>
+
+                                    <li><a href="http://visitor.r20.constantcontact.com/manage/optin/ea?v=001YkmmIsds1moeUl6ZeRBujQ=="   target="_blank" >Tickets E-mail List</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav4 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container4">
+
+<span class="nav-label" style="background-image: url(/images/redesign/facilities.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/facilities/shuttle_bus_schedules/Index"  >Shuttle Bus Schedules</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/directions/index"   target="_blank" >Directions</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/brady_squash_center"   target="_blank" >Brady Squash Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/athlete_services/strength_and_conditioning/facility"   target="_blank" >Brooks-Dwyer Varsity Strength</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/Carm_Cozza_Complex"   target="_blank" >Carm Cozza Complex</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/course_at_yale/index"   target="_blank" >Course at Yale (Golf)</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/coxe_cage/index"   target="_blank" >Coxe Cage</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/cullman-heyman_tennis_center/index"   target="_blank" >Cullman-Heyman Tennis Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/cuyler_field_dwyer_track/index"   target="_blank" >Cuyler Field and Dwyer Track</a></li>
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/dewitt_family_field/index"   target="_blank" >DeWitt Family Field</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/fencing_salon/index"   target="_blank" >Fencing Salon</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/cuyler_field_dwyer_track/index"   target="_blank" >Frank Field</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/gales_ferry/index"   target="_blank" >Gales Ferry</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/gilder_boathouse/index"   target="_blank" >Gilder Boathouse</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/gymnastics_studio/index"   target="_blank" >Gymnastics Studio</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/ingalls_rink/index"   target="_blank" >Ingalls Rink</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/israel_fitness_center"   target="_blank" >Israel Fitness Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/yale_bowl/kenney_family_field_center/index"   target="_blank" >Jensen Family Plaza</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/johnson_field/index"   target="_blank" >Johnson Field</a></li>
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/yale_bowl/kenney_family_field_center/index"   target="_blank" >Kenney Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/pools"   target="_blank" >Kiphuth Exhibition Pool</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/lanman_center/index"   target="_blank" >Lanman Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/john_j_lee_amphitheater/index"   target="_blank" >Lee Amphitheater</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/mcnay_family_sailing_center/index"   target="_blank" >McNay Family Sailing Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/outdoor_education_center/index"   target="_blank" >Outdoor Education Center</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/payne_whitney_gym/index"   target="_blank" >Payne Whitney Gym</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/ray_tompkins_house/index"   target="_blank" >Ray Tompkins House</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/reese_stadium/index"   target="_blank" >Reese Stadium</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/smilow_field_center/index"   target="_blank" >Smilow Field Center</a></li>
+                                                                </ul>
+                </div>
+                <div class="submenu submenu2">
+                    <ul>
+
+                                    <li><a href="/information/tailgates/index"  >Tailgating</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/yale_bowl/index"   target="_blank" >Yale Bowl, Class of 1954 Field</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/facilities/yale_field/index"   target="_blank" >Yale Field</a></li>
+
+                                    <li><a href="https://sfas-r25.its.yale.edu/wv3a/wv3_servlet/urd/run/wv_space.DayList"  >Facility Schedules</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav5 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container5">
+
+<span class="nav-label" style="background-image: url(/images/redesign/alumni.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/alumni/associations/index"  >Alumni Associations</a></li>
+
+                                    <li><a href="/information/blue_leadership_ball/index"  >Blue Leadership Ball</a></li>
+
+                                    <li><a href="/information/broadcasts/index"  >Broadcasts of Games</a></li>
+
+                                    <li><a href="/information/career_network/index"  >Career Network</a></li>
+
+                                    <li><a href="/information/giving"  >Give On-line</a></li>
+
+                                    <li><a href="/information/development/operationovertime"  >Operation Overtime</a></li>
+
+                                    <li><a href="/information/alumni/events"  >Upcoming Alumni Events</a></li>
+
+                                    <li><a href="https://www.alumniconnections.com/olc/membersonly/YALE/memberupdate/memberupdate.cgi"  >Update Your Contact Info</a></li>
+
+                                    <li><a href="/information/alumni/endowments/wiser"  >W.I.S.E.R.</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav6 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container6">
+
+<span class="nav-label" style="background-image: url(/images/redesign/recreation.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/"   target="_blank" >Sports and Recreation Website</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/camps/index"   target="_blank" >Camps</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/student-recreation-programs"   target="_blank" >Club Sports</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/student-recreation-programs"   target="_blank" >Intramurals</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav7 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container7">
+
+<span class="nav-label" style="background-image: url(/images/redesign/recruiting.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/recruiting/index"   target="_blank" >Recruiting Home</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/compliance/index"   target="_blank" >Compliance</a></li>
+
+                                    <li><a href="http://www.yale.edu/admissions/index.html"   target="_blank" >Yale Admissions</a></li>
+
+                                    <li><a href="http://www.yale.edu/about/facts.html"   target="_blank" >Yale Facts</a></li>
+
+                                    <li><a href="http://admissions.yale.edu/financial-aid"   target="_blank" >Yale Financial Aid</a></li>
+
+                                    <li><a href="http://www.infonewhaven.com/"   target="_blank" >New Haven Information</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav8 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container8">
+
+<span class="nav-label" style="background-image: url(/images/redesign/cummunity.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/community/index"  >Community Home</a></li>
+
+                                    <li><a href="/information/community/outreach_program/rowing/index"  >Community Rowing</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/community/nysp/index"   target="_blank" >N.Y.S.P.</a></li>
+
+                                    <li><a href="http://sportsandrecreation.yale.edu/"   target="_blank" >Recreational Choices</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav9 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container9">
+
+<span class="nav-label" style="background-image: url(/images/redesign/tradition.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/traditions/index"  >Traditions Home</a></li>
+
+                                    <li><a href="/information/blue_leadership_ball/index"  >Blue Leadership Ball</a></li>
+
+                                    <li><a href="/information/captains/2012-13_yale_captains"  >Captains</a></li>
+
+                                    <li><a href="/information/traditions/songs"  >Fight Songs</a></li>
+
+                                    <li><a href="/information/mascot/handsome_dan/index"  >Handsome Dan</a></li>
+
+                                    <li><a href="/information/alumni/notable_alumni"  >Notable Alumni</a></li>
+
+                                    <li><a href="/olympics/OLYMPICS.WEB.pdf"  >Olympians</a></li>
+
+                                    <li><a href="http://www.yale.edu/yaleband/ypmb/"   target="_blank" >Yale Precision Marching Band</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+              <li class="nav nav10 dropdown-li">
+           <a  href="#"></a>
+
+<div class="submenu-container" id="submenu-container10">
+
+<span class="nav-label" style="background-image: url(/images/redesign/shop.png);"></span>
+<div class="submenu submenu1">
+        <ul>
+
+                                    <li><a href="/information/merchandise/index"  >Merchandise Home</a></li>
+
+                                    <li><a href="http://www.replayphotos.com/yalephotostore/"   target="_blank" >Photos</a></li>
+
+                                    <li><a href="/information/compliance/photographs"  >Photo Sales Policy</a></li>
+
+                                    <li><a href="http://www.yalebulldogs.com/information/tickets/index"   target="_blank" >Tickets</a></li>
+
+                                    <li><a href="http://client.stretchinternet.com/client/yale.portal"   target="_blank" >Video of Games</a></li>
+                                    </ul>
+    </div>  <div class="clear"></div>
+</div>
+    </li>
+        </ul>
+</div>
+
+
+
+
+<div class="body-container">
+
+           <div id="navbar-secondary"  style="background-image: url(/images/redesign/in_sport_m_basketball.gif);">
+
+<div id="links-container">
+
+   <a href="/sports/m-baskbl/index">Home</a>
+
+     |
+   <a href="/sports/m-baskbl/2012-13/roster">2012-13 Roster</a>
+
+     |
+   <a href="/sports/m-baskbl/2012-13/schedule">2012-13 Schedule</a>
+
+     |
+   <a href="http://yalebulldogs.com/sports/m-baskbl/2012-13/teams/yale">2012-13 Statistics</a>
+
+     |
+   <a href="/sports/m-baskbl/2012-13/files/2012-13_quick_facts.pdf">2012-13 Quick Facts</a>
+
+     |
+   <a href="/sports/m-baskbl/2011-12/schedule">2011-12 Results</a>
+
+     |
+   <a href="/sports/m-baskbl/coaches/index">Coaches</a>
+
+     |
+   <a href="/sports/m-baskbl/2012-13/news">News</a>
+
+     |
+   <a href="http://twitter.com/#!/Yale_Basketball">Yale Basketball On Twitter</a>
+
+           </div>
+
+</div>
+     <div id="mainbody">
+
+     <div class="bookmark"><!-- SHARE BUTTON BEGIN --><script type="text/javascript">addthis_pub = 'prestosports';addthis_options = 'email,favorites,myspace,facebook,digg,delicious,google,twitter';</script><a href="http://www.addthis.com/bookmark.php" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-share.gif" width="125" height="16" border="0" alt="" /></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script><!-- SHARE BUTTON END -->&nbsp;<a href="/sports/m-baskbl/2012-13/roster?dec=/printer-decorator" target="_printer_friendly"><img src="/info/images/printer-friendly.gif"></a></div>
+
+
+     <div class="align-center">
+                    <h1>2012-13 Yale Men's Basketball Roster</h1><br />
+    </div>
+
+
+
+
+
+
+
+        <div class="roster">
+        <table cellpadding="0" cellspacing="1" width="100%">
+            <thead>
+                <tr class="roster-header">
+
+
+                        <td class="col1">
+                                                            <a href="/sports/m-baskbl/2012-13/roster?sort=number" title="Sort using this column">No.</a>
+                                                    </td>
+
+
+                        <td class="col2">
+                                                            <a href="/sports/m-baskbl/2012-13/roster?sort=last_name" title="Sort using this column">Name</a>
+                                                    </td>
+
+
+                        <td class="col3">
+                                                            <a href="/sports/m-baskbl/2012-13/roster?sort=position" title="Sort using this column">Pos.</a>
+                                                    </td>
+
+
+                        <td class="col4">
+                                                            <a href="/sports/m-baskbl/2012-13/roster?sort=year" title="Sort using this column">Cl.</a>
+                                                    </td>
+
+
+                        <td class="col5">
+                                                            Ht.
+                                                    </td>
+
+
+                        <td class="col6">
+                                                            Wt.
+                                                    </td>
+
+
+                        <td class="col7">
+                                                            Hometown/High School
+                                                    </td>
+                                    </tr>
+            </thead>
+            <tbody>
+                                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            10
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/bedart_ghani_khaliq_8pgn" title="Player's Bio">Khaliq Bedart Ghani</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Fr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-5
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            205
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Inglewood, CA / Loyola
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            34
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/childs-klein_will_zy6v" title="Player's Bio">Will Childs-Klein</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            C
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            So.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-11
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            225
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            St. Louis, MO / Ladue
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            12
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/cotton_armani_2prz" title="Player's Bio">Armani Cotton</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            So.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-7
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            215
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            New York, NY / Northfield Mount Hermon
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            20
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/duren_javier_72p4" title="Player's Bio">Javier Duren</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            So.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-4
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            185
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            St. Louis, MO / Oakville
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            5
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/grace_michael_mmrb" title="Player's Bio">Michael Grace</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Sr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-0
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            180
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Winston-Salem, NC / Mt. Tabor
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            32
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/kelley_greg_5qkh" title="Player's Bio">Greg Kelley</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            F
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Jr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-8
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            215
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Newton, MA / Newton North
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            50
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/kreisberg_jeremiah_pk5k" title="Player's Bio">Jeremiah Kreisberg</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            C/F
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Jr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-10
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            240
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Berkeley, CA / Head-Royce School
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            25
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/martin_sam_utde" title="Player's Bio">Sam Martin</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Sr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-3
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            200
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            West Warwick, RI / Worcester Academy
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            4
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/montague_jack_2j5t" title="Player's Bio">Jack Montague</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Fr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-0
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            170
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Brentwood, TN / Brentwood
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            1
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/morgan_austin_mzde" title="Player's Bio">Austin Morgan</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Sr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            5-11
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            190
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Reno, NV / Reno
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            11
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/pritchard_jesse_jx4c" title="Player's Bio">Jesse Pritchard</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Jr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-5
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            210
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Ames, IA / Blair Academy
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            22
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/sears_justin_x1pp" title="Player's Bio">Justin Sears</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            F
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Fr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-8
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            205
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Plainfield, NJ / Plainfield
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            35
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/sherrod_brandon_e2zu" title="Player's Bio">Brandon Sherrod</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            F
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            So.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-6
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            240
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Bridgeport, CT / Choate Rosemary Hall
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row1">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            42
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/townsend_matt_gq14" title="Player's Bio">Matt Townsend</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            F
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            So.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-7
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            240
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Chappaqua, NY / Horace Greeley
+                                                                                                </td>
+                                            </tr>
+
+                                    <tr class="roster-row0">
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            21
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            <a href="/sports/m-baskbl/2012-13/bios/victor_nick_7agu" title="Player's Bio">Nick Victor</a>
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            G
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            Fr.
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            6-5
+                                                                                                </td>
+                                                                                                                                                                                                                                                    <td>
+                                                                                                                                            205
+                                                                                                </td>
+
+
+
+
+
+
+                                                                                        <td>
+                                                                                                                                            Dallas, TX / Winchendon
+                                                                                                </td>
+                                            </tr>
+
+                            </tbody>
+        </table>
+        </div>
+
+                            <div class="roster-footer">
+
+
+
+
+
+
+
+
+
+<div class="rich clearfix">
+
+
+
+
+
+
+
+
+
+
+
+
+  <p><strong>Joel E. Smilow, Class of 1954 Head Coach</strong>: James
+Jones<br>
+
+<strong>Assistant Coaches</strong>:Matt Kingsley, Jamie
+Snyder-Fair, Justin Simon<br>
+
+<strong>Athletic Trainer</strong>: David Dinapoli<br>
+
+<strong>Captain:</strong> Sam Martin</p>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="2012-13 Yale Men's Basketball Roster" href="/sports/m-baskbl/2012-13/roster?feed=rss_2.0">
+
+
+
+<!-- from: generic theme -->
+
+     </div>
+
+<div class="clear"></div>
+
+</div>
+
+
+
+<div id="bottom-button">
+
+<div id="top">
+
+<a href="/information/broadcasts/index" target="_blank" class="button" id="button1"><img src="/images/redesign/btn_audio_broadcasts.jpg" /></a>
+
+
+
+
+
+
+<a href="http://livestats.prestosports.com/yale" target="_blank" class="button" id="button2"><img src="/images/redesign/btn_livestats.jpg" /></a>
+
+
+
+
+
+
+<a href="/video/index" target="_blank" class="button" id="button3"><img src="/images/redesign/btn_video.jpg" /></a>
+
+
+
+
+
+
+<a href="/information/merchandise/index" target="_blank" class="button" id="button4"><img src="/images/redesign/btn_official_merchandise.jpg" /></a>
+
+</div>
+<div id="right">
+
+
+
+
+
+<a href="/information/mascot/handsome_dan/index" target="_blank" class="button" id="button5"><img src="/images/redesign/btn_handsome_dan.jpg" /></a>
+
+
+</div>
+<div id="bottom">
+
+
+
+
+<a href="/information/merchandise/auctions" target="_blank" class="button" id="button6"><img src="/images/redesign/btn_auctions.jpg" /></a>
+
+
+
+
+
+
+<a href="/information/giving" target="_blank" class="button" id="button7"><img src="/images/redesign/btn_giving_yale.jpg" /></a>
+
+
+
+
+
+
+<a href="/information/facilities/payne_whitney_gym/index" target="_blank" class="button" id="button8"><img src="/images/redesign/btn_payne_whitney.jpg" /></a>
+
+
+
+
+
+
+<a href="/list-signup" target="_blank" class="button" id="button9"><img src="/images/redesign/btn_newsletter.jpg" /></a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+<div id="footer">
+  <div id="footer-text">
+
+
+
+
+
+
+
+<head>
+    <script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script>
+      FB.init({
+        status : true, // check login status
+        cookie : true, // enable cookies to allow the server to access the session
+        xfbml  : true  // parse XFBML
+      });
+    </script>
+</head>
+
+<div class="rich clearfix">
+
+
+
+
+
+
+
+
+
+
+
+
+  <p><a href="/information/directory/index" target="_self">Contact
+Us</a><br>
+
+<a href="/rss/index" target="_self">RSS Feed</a><br>
+
+Copyright &copy; 2010</p>
+
+
+
+</div>
+
+
+
+</div>
+  <div id="footer-logo">
+<a href="#"><img src="/images/redesign/footer3_text.gif" /></a>
+<a href="http://www.yale.edu"><img src="/images/redesign/footer3_yale.gif" /></a>
+<a href="http://www.ivyleaguesports.com"><img src="/images/redesign/footer3_ivy.gif" /></a>
+<a href="http://www.ecachockey.com"><img src="/images/redesign/footer3_ecac.gif" /></a>
+<a href="http://www.ncaa.com"><img src="/images/redesign/footer3_ncaa.gif" /></a>
+<a href="/information/corporate_partners/index"><img src="/images/redesign/footer3_partners.gif" /></a>
+<a href="http://www.prestosports.com"><img src="/images/redesign/footer3_presto.gif" /></a>
+
+</div>
+
+</div>
+
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10452015-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<p style="color:#fff; margin:10px" id="view-mode">View: <a href="/action/browser-mode?u=%2Fsports%2Fm-baskbl%2F2012-13%2Froster&m=1">Mobile</a> | Desktop</p>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-c1MZx5LfVe-Xw";quantserve();</script><noscript><a href="http://www.quantcast.com/p-c1MZx5LfVe-Xw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c1MZx5LfVe-Xw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+
+<meta name="google-site-verification" content="UCyPI5OegFOIzGHNXcNKJfLxTud-u6kxqeCH50LDKAs" />
+<!-- dropoff-scripts -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://cdn77.psbin.com/info/cookie-handler.js"></script>
+
+<script type="text/javascript">
+$(function() {
+    if (readCookie('adminuser')) {
+        $('body').append('<span id="edit-page-btn" style="display: block; padding: 10px; z-index: 9999; background: #000; color: #fff; font-size: 12px; position: fixed; right: 0; top: 0; cursor: default">Edit Page</span>');
+        $('#edit-page-btn').click(function() {
+            url = document.location.protocol + '//' + document.location.hostname
+            if (document.location.port) url += ':' + document.location.port;
+            url += '/admin/content/wiki/g2g';
+            url += document.location.pathname;
+            window.location = url;
+        });
+    }
+});
+</script>
+
+</body>
+</html>
+
