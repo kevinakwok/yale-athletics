@@ -22,8 +22,7 @@ def replace_ampersands(teams):
     temp_teams = teams
     output_teams = []
     for temp_team in temp_teams:
-        team_link = temp_team[0]
-        team_name = temp_team[1]
+        team_link, team_name = temp_team
         team_name = team_name.replace("&amp;", "and")
         new_temp_team = [(team_link, team_name)]
         output_teams = output_teams + new_temp_team
@@ -55,8 +54,7 @@ def return_team_list(team_roster):
 
 def list_single_team(team):
     """Outputs list of team and player"""
-    team_link = team[0]
-    team_name = team[1]
+    team_link, team_name = team
     team_roster = return_roster_url(team_link)
     team_list = return_team_list(team_roster)
     list_single_team = [(team_name, person) for person in team_list]
